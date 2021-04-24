@@ -1,7 +1,7 @@
 echo off
 
 cls
-echo Mincodedis
+echo Mincodedis zzzzzzzzzzzzzzzzzzzzz
 echo 1.Download GitHub
 echo 2.py start
 echo 3.js start
