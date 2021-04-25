@@ -3,7 +3,7 @@ echo off
 cls
 
 
-cd C:\Program Files (x86)\Minecraft Launcher
-start MinecraftLauncher.exe
+
+start server\min.exe
 
 exit
