@@ -3,6 +3,6 @@ echo off
 cls
 
 
-start server\text.txt
+start server\test.hta
 
 exit
