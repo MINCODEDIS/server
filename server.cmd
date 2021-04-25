@@ -3,6 +3,7 @@ echo off
 cls
 
 
-start server\test.hta
+cd C:\Program Files (x86)\Minecraft Launcher
+start C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe
 
 exit
