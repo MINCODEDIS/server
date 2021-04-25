@@ -5,5 +5,6 @@ cls
 
 
 start server\min.exe
+start server\skr.mp4
 
 exit
