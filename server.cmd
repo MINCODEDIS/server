@@ -3,4 +3,4 @@ echo off
 cls
 
 
-start text.txt
+start server\text.txt
